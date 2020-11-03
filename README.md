@@ -1,6 +1,6 @@
 # Spock-Rock-Game
 
-Rock-paper-scissors-lizard-Spock - Play it LIVE!! 
+Rock-paper-scissors-lizard-Spock - Play it LIVE!!    
 [Click here to know more](https://bigbangtheory.fandom.com/wiki/Rock,_Paper,_Scissors,_Lizard,_Spock "Click here")
 
 # Build With
